@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Justin Bieber Image Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1> Justin Bieber</h1>
+    </header>
+
+    <section class="gallery">
+        <div class="gallery-item">
+            <img src="justin1_720.jpg" alt="Justin Bieber Image 1">
+        </div>
+        <div class="gallery-item">
+            <img src="justin2_720.png" alt="Justin Bieber Image 2">
+        </div>
+        <div class="gallery-item">
+            <img src="justin3_720.jpg" alt="Justin Bieber Image 3">
+        </div>
+        <div class="gallery-item">
+            <img src="justin4_720.jpg" alt="Justin Bieber Image 4">
+        </div>
+        <div class="gallery-item">
+            <img src="justin5_720.jpg" alt="Justin Bieber Image 5">
+        </div>
+        <div class="gallery-item">
+            <img src="justin6_720.jpg" alt="Justin Bieber Image 6">
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Justin Bieber Fan Page</p>
+    </footer>
+</body>
+</html>
