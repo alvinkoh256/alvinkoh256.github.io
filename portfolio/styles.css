@@ -1,0 +1,88 @@
+#navigation {
+    text-align: center;
+    background-color: rgb(28, 41, 68);
+    height: 90px;
+}
+
+.nav {
+    font-size: 1.6em;
+    margin: 2%;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    position:relative;
+    top: 30px;
+}
+
+.small {
+    font-size: 0.8em;
+}
+
+.nav:hover {
+    color: rgb(96, 20, 189);
+}
+
+#div1 {
+    width: auto;
+    height: 300px;
+}
+
+#inner-div {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#alvin-photo {
+    width: 230px;
+    height: 230px;
+    border: 1px solid black;
+    
+    padding: 1%;
+    position: absolute;
+    top: 200px;
+    right: 500px;
+}
+
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 2px solid black;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgb(158, 158, 219), rgb(140, 140, 49));
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+p {
+    max-width: 70%;
+    font-size: 1em;
+}
+
+#main-body {
+    padding: 5%;
+    background-image: radial-gradient(rgb(141, 135, 205),rgb(209, 209, 227));
+
+}
+
+.photos {
+    width: 230px;
+    height: 230px;
+    border: 1px solid red;
+    padding: 1%;
+    background-color: rgb(28, 41, 68);
+}
+
+#moon-photo {
+    width:500px;
+    height:500px;
+}
+
+#moon-photo:hover {
+    width:1000px;
+    height:1000px;
+}
